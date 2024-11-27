@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">ItemManager</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <!-- 비밀번호의 digits 속성에 설정할 문자열 값 -->
+    <string name="password_disgits">abcdefghijklmnopqrstuvwxyz0123456789_</string>
+</resources>
